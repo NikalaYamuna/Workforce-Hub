@@ -33,3 +33,17 @@ build/
 .vscode/
 
 src/main/resources/application.properties
+# Frontend dependencies
+frontend/node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+.venv/
