@@ -1,4 +1,4 @@
-# Employee Portal
+# WorkForce-Hub
 
 A full-stack Employee Management System built using **React.js** for the frontend and **Spring Boot** for the backend. The application uses REST APIs to perform CRUD operations on employee records stored in MySQL.
 
